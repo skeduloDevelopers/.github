@@ -102,3 +102,9 @@ Skedulo provides a number of handy resources for developers:
 * Skedulo Developer [Release Notes](https://www.skedulo.com/release-notes/?filter=developers)
 * Skedulo [Support](https://support.skedulo.com/skedulo/directories)
 
+## Contributing
+
+We welcome contribution of all kinds, including feature suggestions, ideas and bug reports. Please read our general [contribution guidelines](CONTRIBUTING.md), and our [code of conduct](CODE_OF_CONDUCT.md) For more specific information, see the `CONTRIBUTING.md` file in each repository.
+
+**NOTE:** For Skedulo technical or customer support, please use our [support portal](https://support.skedulo.com/skedulo/directories)
+
