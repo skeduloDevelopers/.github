@@ -70,7 +70,7 @@ To get started with the CLI and these examples:
   <!-- Optimization Extension Examples -->
   <td width="50%" valign="top">
     <h2><a href="https://github.com/skeduloDevelopers/SkeduloPlusExamples">Optimization Extension Examples</a></h2>
-    <!-- <img src="imgurl" alt="Skedulo Plus Examples" width="400"/> -->
+     <img src="/profile/images/OptimizationExtensionExamples.png" alt="Skedulo Plus Examples" width="400"/> 
     <br/>
     <br/>
     <details>
