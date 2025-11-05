@@ -8,7 +8,7 @@ This project and everyone participating in it is governed by our [Code of Conduc
 
 ## How Can I Contribute?
 
-There are many ways to contribute to our projects:
+There are many ways to contribute:
 
 - **Report bugs** - Help us identify and fix issues, please use the GitHub issues tab within the relevant repository
 - **Suggest enhancements** - Share ideas for new features, or other examples you'd like to see here
