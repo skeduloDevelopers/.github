@@ -26,7 +26,7 @@ To get started with the CLI and these examples:
   <!-- Skedulo CLI Examples -->
   <td width="50%" valign="top">
     <h2><a href="https://github.com/skeduloDevelopers/SkeduloPlusExamples">Skedulo CLI Examples</a></h2>
-    <img src="/profile/SkeduloCLIExamples.png" alt="Skedulo Plus Examples" width="400"/>
+    <img src="/profile/images/SkeduloCLIExamples.png" alt="Skedulo Plus Examples" width="400"/>
     <br/>
     <br/>
     <details>
@@ -47,7 +47,7 @@ To get started with the CLI and these examples:
   <!-- Mobile Extension Examples -->
   <td valign="top">
     <h2><a href="https://github.com/skeduloDevelopers/SkeduloPlusExamples">Skedulo Plus Examples</a></h2>
-    <img src="/profile/MobileExtensionExamples.png" alt="Skedulo Plus Examples" width="400"/>
+    <img src="/profile/images/MobileExtensionExamples_v2.png" alt="Skedulo Plus Examples" width="400"/>
     <br/>
     <br/>
     <details>
