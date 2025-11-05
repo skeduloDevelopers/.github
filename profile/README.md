@@ -44,10 +44,10 @@ To get started with the CLI and these examples:
       <br/><br/>
     </details>
   </td>
-  <!-- Skedulo Plus Examples -->
+  <!-- Mobile Extension Examples -->
   <td valign="top">
     <h2><a href="https://github.com/skeduloDevelopers/SkeduloPlusExamples">Skedulo Plus Examples</a></h2>
-    <!-- <img src="imgurl" alt="Skedulo Plus Examples" width="400"/> -->
+    <img src="/profile/MobileExtensionExamples.png" alt="Skedulo Plus Examples" width="400"/>
     <br/>
     <br/>
     <details>
