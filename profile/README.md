@@ -25,7 +25,7 @@ To get started with the CLI and these examples:
 <tr>
   <!-- Skedulo CLI Examples -->
   <td width="50%" valign="top">
-    <h2><a href="https://github.com/skeduloDevelopers/SkeduloPlusExamples">Skedulo CLI Examples</a></h2>
+    <h2><a href="https://github.com/skeduloDevelopers/SkeduloCLIExamples">Skedulo CLI Examples</a></h2>
     <img src="/profile/images/SkeduloCLIExamples.png" alt="Skedulo Plus Examples" width="400"/>
     <br/>
     <br/>
@@ -69,7 +69,7 @@ To get started with the CLI and these examples:
 <tr>
   <!-- Optimization Extension Examples -->
   <td width="50%" valign="top">
-    <h2><a href="https://github.com/skeduloDevelopers/SkeduloPlusExamples">Optimization Extension Examples</a></h2>
+    <h2><a href="https://github.com/skeduloDevelopers/OptimizationExtensionExamples">Optimization Extension Examples</a></h2>
      <img src="/profile/images/OptimizationExtensionExamples.png" alt="Skedulo Plus Examples" width="400"/> 
     <br/>
     <br/>
