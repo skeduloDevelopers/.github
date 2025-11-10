@@ -46,7 +46,7 @@ To get started with the CLI and these examples:
   </td>
   <!-- Mobile Extension Examples -->
   <td valign="top">
-    <h2><a href="https://github.com/skeduloDevelopers/SkeduloPlusExamples">Mobile Extension Examples</a></h2>
+    <h2><a href="https://github.com/skeduloDevelopers/MobileExtensionExamples">Mobile Extension Examples</a></h2>
     <img src="/profile/images/MobileExtensionExamples_v2.png" alt="Skedulo Plus Examples" width="400"/>
     <br/>
     <br/>
