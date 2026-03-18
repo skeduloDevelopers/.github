@@ -88,6 +88,27 @@ To get started with the CLI and these examples:
       <br/><br/>
     </details>
   </td>
+  <!-- Horizon Component Examples -->
+  <td valign="top">
+    <h2><a href="https://github.com/skeduloDevelopers/HorizonComponentExamples">Horizon Component Examples</a></h2>
+    <img src="/profile/images/HorizonComponentExamples.png" alt="Horizon Component Examples" width="400"/>
+    <br/>
+    <br/>
+    <details>
+      <summary><b>ℹ️ More info </b></summary>
+      <p>Horizon components allow you to build custom web-based UI extensions for the Skedulo Pulse Platform. This repository contains example components that you can use to better understand how Horizon components work, or use them as a basis for your own components.</p>
+      <b>Resources</b><br/>
+      <ul>
+        <li><a href="https://docs.skedulo.com/developer-guides/customize-and-extend-web/horizon-component-extensions/horizon-intro/">Documentation</a></li>
+      </ul>
+       <b>Features</b><br/>
+      <p>
+        <code>Horizon Components</code>, <code>Skedulo Pulse</code>, <code>Skedulo for Salesforce</code>
+      </p>
+      <br/><br/>
+    </details>
+  </td>
+</tr>
 </table>
 
 ## Developer Resources
