@@ -22,95 +22,88 @@ To get started with the CLI and these examples:
 ### Repositories
 
 <table>
-<tr>
-  <!-- Skedulo CLI Examples -->
-  <td width="50%" valign="top">
-    <h2><a href="https://github.com/skeduloDevelopers/SkeduloCLIExamples">Skedulo CLI Examples</a></h2>
-    <img src="/profile/images/SkeduloCLIExamples.png" alt="Skedulo Plus Examples" width="400"/>
-    <br/>
-    <br/>
-    <details>
-      <summary><b>ℹ️ More info </b></summary>
-      <p>The Skedulo CLI is <b>the</b> way that developers can work with the Skedulo Pulse Platform. This repository contains examples of all of the artifacts able to be deployed with the Skedulo CLI, you can use these to better understand the structures and how to use the CLI.  </p>
-      <b>Resources</b><br/>
-      <ul>
-        <li><a href="https://docs.skedulo.com/developer-guides/cli/skedulo-cli-introduction/">Documentation</a></li>
-        <li><a href="https://youtu.be/gxvs-KezZvc">Getting started video</a></li>
-      </ul>
-       <b>Features</b><br/>
-      <p>
-        <code>Skedulo CLI</code>, <code>Skedulo Pulse</code>, <code>Skedulo for Salesforce</code>
-      </p>
+  <tr>
+    <td width="50%" valign="top">
+      <h2><a href="https://github.com/skeduloDevelopers/agent-skills">Skedulo Agent Skills</a></h2>
+      <img src="/profile/images/agent-skills.png" alt="Skedulo Agent Skills" style="max-width: 100%; height: auto;"/>
       <br/><br/>
-    </details>
-  </td>
-  <!-- Mobile Extension Examples -->
-  <td valign="top">
-    <h2><a href="https://github.com/skeduloDevelopers/MobileExtensionExamples">Mobile Extension Examples</a></h2>
-    <img src="/profile/images/MobileExtensionExamples_v2.png" alt="Skedulo Plus Examples" width="400"/>
-    <br/>
-    <br/>
-    <details>
-      <summary><b>ℹ️ More info </b></summary>
-      <p>This repository contains a range of Skedulo Plus mobile forms, from a simple Hello World form to one showcasing all of the available components. You can use these examples to learn more about Skedulo Plus, or modify them to suit your needs. </p>
-      <b>Resources</b><br/>
-      <ul>
-        <li><a href="https://docs.skedulo.com/developer-guides/customize-and-extend-mobile/skedulo-plus-extensions/mex-intro/">Documentation</a></li>
-        <li><a href="https://www.youtube.com/playlist?list=PL4HQITmsl6VbNT3yhhNC-ciRj8peFn69n">Getting started video series</a></li>
-      </ul>
-       <b>Features</b><br/>
-      <p>
-        <code>Skedulo Plus</code>, <code>Skedulo Pulse</code>, <code>Skedulo for Salesforce</code>
-      </p>
+      <details>
+        <summary><b>ℹ️ More info </b></summary>
+        <p>Agent skills for building on the Skedulo Pulse Platform. These skills extend AI coding assistants with Skedulo-specific knowledge, workflows, and best practices.</p>
+      </details>
+    </td>
+    <td width="50%" valign="top">
+      <h2><a href="https://github.com/skeduloDevelopers/SkeduloCLIExamples">Skedulo CLI Examples</a></h2>
+      <img src="/profile/images/SkeduloCLIExamples.png" alt="Skedulo CLI Examples" style="max-width: 100%; height: auto;"/>
       <br/><br/>
-    </details>
-  </td>
-</tr>
-<tr>
-  <!-- Optimization Extension Examples -->
-  <td width="50%" valign="top">
-    <h2><a href="https://github.com/skeduloDevelopers/OptimizationExtensionExamples">Optimization Extension Examples</a></h2>
-     <img src="/profile/images/OptimizationExtensionExamples.png" alt="Skedulo Plus Examples" width="400"/> 
-    <br/>
-    <br/>
-    <details>
-      <summary><b>ℹ️ More info </b></summary>
-      <p>Optimization extensions enable you to create custom scheduling logic to meet the specific needs of your organization, enhancing scheduling workflows. This repository contains example extensions that you can use to better understand how Optimization extensions work, or use them as a basis for your own extensions.</p>
-      <b>Resources</b><br/>
-      <ul>
-        <li><a href="https://docs.skedulo.com/developer-guides/manage-and-schedule-work/optimization-of-schedules/extensions-transformers/">Documentation</a></li>
-        <li><a href="https://www.youtube.com/watch?v=UBZUr6wEfq0">Getting started video</a></li>
-      </ul>
-       <b>Features</b><br/>
-      <p>
-        <code>Optimization</code>, <code>Skedulo Pulse</code>, <code>Skedulo for Salesforce</code>
-      </p>
-      <br/><br/>
-    </details>
-  </td>
-  <!-- Horizon Component Examples -->
-  <td valign="top">
-    <h2><a href="https://github.com/skeduloDevelopers/HorizonComponentExamples">Horizon Component Examples</a></h2>
-    <img src="/profile/images/HorizonComponentExamples.png" alt="Horizon Component Examples" width="400"/>
-    <br/>
-    <br/>
-    <details>
-      <summary><b>ℹ️ More info </b></summary>
-      <p>Horizon components allow you to build custom web-based UI extensions for the Skedulo Pulse Platform. This repository contains example components that you can use to better understand how Horizon components work, or use them as a basis for your own components.</p>
-      <b>Resources</b><br/>
-      <ul>
-        <li><a href="https://docs.skedulo.com/developer-guides/customize-and-extend-web/horizon-component-extensions/horizon-intro/">Documentation</a></li>
-      </ul>
-       <b>Features</b><br/>
-      <p>
-        <code>Horizon Components</code>, <code>Skedulo Pulse</code>, <code>Skedulo for Salesforce</code>
-      </p>
-      <br/><br/>
-    </details>
-  </td>
-</tr>
-</table>
+      <details>
+        <summary><b>ℹ️ More info </b></summary>
+        <p>The Skedulo CLI is <b>the</b> way that developers can work with the Skedulo Pulse Platform.</p>
+        <b>Resources</b>
+        <ul>
+          <li><a href="https://docs.skedulo.com/developer-guides/cli/skedulo-cli-introduction/">Documentation</a></li>
+          <li><a href="https://youtu.be/gxvs-KezZvc">Getting started video</a></li>
+        </ul>
+        <b>Features</b><br/>
+        <code>Skedulo CLI</code>, <code>Skedulo Pulse</code>
+      </details>
+    </td>
+  </tr>
 
+  <tr>
+    <td width="50%" valign="top">
+      <h2><a href="https://github.com/skeduloDevelopers/MobileExtensionExamples">Mobile Extension Examples</a></h2>
+      <img src="/profile/images/MobileExtensionExamples_v2.png" alt="Mobile Extension Examples" style="max-width: 100%; height: auto;"/>
+      <br/><br/>
+      <details>
+        <summary><b>ℹ️ More info </b></summary>
+        <p>This repository contains a range of Skedulo Plus mobile forms, from Hello World to complex component showcases.</p>
+        <b>Resources</b>
+        <ul>
+          <li><a href="https://docs.skedulo.com/developer-guides/customize-and-extend-mobile/skedulo-plus-extensions/mex-intro/">Documentation</a></li>
+          <li><a href="https://www.youtube.com/playlist?list=PL4HQITmsl6VbNT3yhhNC-ciRj8peFn69n">Getting started video series</a></li>
+        </ul>
+        <b>Features</b><br/>
+        <code>Skedulo Plus</code>, <code>Skedulo Pulse</code>
+      </details>
+    </td>
+    <td width="50%" valign="top">
+      <h2><a href="https://github.com/skeduloDevelopers/OptimizationExtensionExamples">Optimization Extensions</a></h2>
+      <img src="/profile/images/OptimizationExtensionExamples.png" alt="Optimization Extension Examples" style="max-width: 100%; height: auto;"/> 
+      <br/><br/>
+      <details>
+        <summary><b>ℹ️ More info </b></summary>
+        <p>Create custom scheduling logic to meet specific organizational needs using Optimization extensions.</p>
+        <b>Resources</b>
+        <ul>
+          <li><a href="https://docs.skedulo.com/developer-guides/manage-and-schedule-work/optimization-of-schedules/extensions-transformers/">Documentation</a></li>
+          <li><a href="https://www.youtube.com/watch?v=UBZUr6wEfq0">Getting started video</a></li>
+        </ul>
+        <b>Features</b><br/>
+        <code>Optimization</code>, <code>Skedulo Pulse</code>
+      </details>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h2><a href="https://github.com/skeduloDevelopers/HorizonComponentExamples">Horizon Component Examples</a></h2>
+      <img src="/profile/images/HorizonComponentExamples.png" alt="Horizon Component Examples" style="max-width: 100%; height: auto;"/>
+      <br/><br/>
+      <details>
+        <summary><b>ℹ️ More info </b></summary>
+        <p>Build custom web-based UI extensions for the Skedulo Pulse Platform using Horizon components.</p>
+        <b>Resources</b>
+        <ul>
+          <li><a href="https://docs.skedulo.com/developer-guides/customize-and-extend-web/horizon-component-extensions/horizon-intro/">Documentation</a></li>
+        </ul>
+        <b>Features</b><br/>
+        <code>Horizon Components</code>, <code>Skedulo Pulse</code>
+      </details>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 ## Developer Resources
 
 Skedulo provides a number of handy resources for developers:
