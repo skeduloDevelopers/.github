@@ -101,7 +101,21 @@ To get started with the CLI and these examples:
         <code>Horizon Components</code>, <code>Skedulo Pulse</code>
       </details>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h2><a href="https://github.com/skeduloDevelopers/TempoAgentExamples">Tempo Agent Examples</a></h2>
+      <img src="/profile/images/TempoAgentExamples.png" alt="Tempo Agent Examples" style="max-width: 100%; height: auto;"/>
+      <br/><br/>
+      <details>
+        <summary><b>ℹ️ More info </b></summary>
+        <p>Tempo is Skedulo's AI agent for schedulers. This repository contains example custom agents, which give Tempo instructions and a tool allowlist specific to your operation, and automations that raise Tempo tasks when something happens in Skedulo. Deploy them to see Tempo at work, or use them as a basis for your own.</p>
+        <b>Resources</b>
+        <ul>
+          <li><a href="https://docs.skedulo.com/developer-guides/tempo/">Documentation</a></li>
+        </ul>
+        <b>Features</b><br/>
+        <code>Tempo</code>, <code>Custom Agents</code>, <code>Automations</code>, <code>Skedulo Pulse</code>
+      </details>
+    </td>
   </tr>
 </table>
 ## Developer Resources
