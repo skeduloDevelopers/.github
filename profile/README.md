@@ -118,6 +118,7 @@ To get started with the CLI and these examples:
     </td>
   </tr>
 </table>
+
 ## Developer Resources
 
 Skedulo provides a number of handy resources for developers:
